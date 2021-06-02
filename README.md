@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/hax4us/haxRat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://1.bp.blogspot.com/-M3h5h55JfYo/YLXHgTPuAgI/AAAAAAAAAHU/C5MCUMZnojgna_6Agk0pee7QShWNLdRugCPcBGAYYCw/s200/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
@@ -37,7 +37,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ### For Termux Users
 1. Install NodeJs `apt install nodejs`
 
-2. Clone `git clone https://github.com/hax4us/haxRat.git`
+2. Clone `git clone https://github.com/PALANCEROOT/haxRat.git`
 
 3. Goto server directory `cd haxRat/server`
 
@@ -49,8 +49,8 @@ A cloud based remote android managment suite, powered by NodeJS
 
 7. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup haxRAT with PORTMAP.)
 
-### For default PASSWORD [CLICK HERE](https://afly.pro/INTuM7)
-### This video contains instructions for getting password [CLICK HERE](https://youtu.be/ZtZxzohfIx4)
+
+### This video contains instructions for getting password [CLICK HERE]()
 
 
 ## Thanks
@@ -63,5 +63,5 @@ A cloud based remote android managment suite, powered by NodeJS
  - [Leaflet](https://leafletjs.com/)
 
 ## Disclaimer
-<b>I ( Lokesh Pandey a.k.a Hax4Us )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>I ( I am Golden )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 haxRat is built for both Educational and Internal use ONLY.</b>
